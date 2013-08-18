@@ -1,4 +1,9 @@
-vanilla
-=======
+#Pocket Mark all as Read
 
-the starting point of every new project
+Archives everything in your Pocket queue.
+
+##To Do
+
+1. add disclaimer
+2. add undo option
+3. error handling
